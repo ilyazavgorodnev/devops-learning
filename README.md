@@ -4,7 +4,7 @@ My DevOps learning journey
 
 This repository documents my path to becoming a DevOps / MLOps engineer.
 
-## Goals
+## Learning Goals
 - Learn Linux, Git, Docker, CI/CD, Cloud, Kubernetes
 - Build real projects
 - Transition into DevOps / MLOps role
